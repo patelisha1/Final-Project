@@ -1,3 +1,7 @@
+# link to video-https://www.youtube.com/watch?v=dV_1WQeAJp8
+
+
+
 # Final-Project
 
 
@@ -32,4 +36,4 @@ print("messy as a", NOUN_4, ". When they announced my name, and as I was walking
 print(NOUN_5, "in my stomach. Everyone in the jumbotron was staring at me and were shocked.")
 print("“Oh no,” I thought. I knew I should not have eaten", NOUN_6, "for breakfast. It was too late. I")
 print("threw up my breakfast all over myself in front of everyone, right as I heard the cameraman")
-print("say 'cheese.'")
+print("say 'cheese.'") 
